@@ -258,7 +258,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Right click the start menu and head to system and <strong><em>Rename this PC</em></strong>.</p>
+<p>Right click the start menu and head to system and <strong><em>Rename this PC I put "DC" to keep things simple, after that reboot your OS</em></strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5066,"sizeSlug":"large","linkDestination":"none"} -->
