@@ -212,7 +212,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>And the one below is an internal network IPv4 169.254.26.252 for our "Ethernet" we're gonna change the name of these after just to keep thing more neat for the project.</p>
+<p>And the one below is an internal network IPv4 169.254.26.252 for our "Ethernet" we're gonna change the name of these after just to keep thing more neat for the project. The Subnet for our Ethernet is use by our DHCP so don't mess around with that.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5058,"sizeSlug":"large","linkDestination":"none"} -->
