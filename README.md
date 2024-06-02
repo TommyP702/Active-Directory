@@ -262,11 +262,13 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5066,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-445.png?w=793" alt="" class="wp-image-5066"/></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/057699ca-19b1-4740-80f9-009d438b8c01" alt="Active Directory Image">
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":5068,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-446.png?w=679" alt="" class="wp-image-5068"/></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/c664b650-0f1f-449d-b677-ce79fe6b2994" alt="Active Directory Image">
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
