@@ -392,7 +392,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5104,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-461.png?w=434" alt="" class="wp-image-5104"/></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/8e680b1e-0e3e-4657-bdcc-8abd701b652f" alt="Active Directory Image">
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -408,7 +409,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5108,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-464.png?w=752" alt="" class="wp-image-5108"/></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/3e8abc61-7ce9-4a4f-ae9e-40c9803fb331" alt="Active Directory Image">
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
