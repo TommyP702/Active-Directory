@@ -1,6 +1,6 @@
 # Active Directory Setup + Bulk User Creation
 <!-- wp:paragraph -->
-<p>This project will showcase how Windows Server 2022 Active Directory can create and add users with PowerShell Automation.</p>
+<p>This project will showcase how Windows Server 2019 Active Directory can create and add users with PowerShell Automation.</p>
 <!-- /wp:paragraph -->
 
 
