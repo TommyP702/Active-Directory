@@ -507,7 +507,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5173,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-490.png?w=494" alt="" class="wp-image-5173"/></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/ad547b54-f720-4276-a930-34281a3189df" alt="Active Directory Image">
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
