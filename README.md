@@ -60,7 +60,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="#11">Change directory to script director</a>y</li>
+<li><a href="#11">Change directory to script directory</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -158,15 +158,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>On the top of the tab click on <strong><em>Devices</em></strong> and then <strong><em>Install Guest Addition CD image</em></strong>. Then head<strong><em> File Explorer</em></strong> click on the <strong><em>This PC</em></strong> tab and click <strong><em>CD Drive (D:) VirtualBox Guest Additions</em></strong>.</p>
+<p>On the top of the tab click on <strong><em>Devices</em></strong> and then <strong><em>Install Guest Addition CD image</em></strong>. Then head<strong><em> File Explorer</em></strong> click on the <strong><em>This PC</em></strong> tab and click <strong><em>CD Drive (D:) VirtualBox Guest Additions. Double click it</em></strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5005,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-415.png?w=1018" alt="" class="wp-image-5005"/></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/9ef0f1a8-b8b2-424a-a6b6-79fdfa27f44e" alt="Active Directory Image">
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Click on the<strong><em> amd64</em></strong> application and install the program. </p>
+<p>Click on the<strong><em> amd64</em></strong> application and install the program. After the installion its going to ask you to reboot. Please do that </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5006,"sizeSlug":"large","linkDestination":"none"} -->
@@ -182,7 +183,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Head to the network options on the bottom right of the screen and click on <strong><em>Change adapter options</em></strong>.</p>
+<p>Lets open up Network right click the Network icon on the bottom right of your desktop and click "Open Network and Internet settings" then click on <strong><em>Change adapter options</em></strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5055,"sizeSlug":"large","linkDestination":"none"} -->
@@ -202,7 +203,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>The IP address below connects to the internet.</p>
+<p>The IP address below connects to the internet is 10.02.15 for the IPv4 for our "Ethernet 2".</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5057,"sizeSlug":"large","linkDestination":"none"} -->
@@ -210,7 +211,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>And the one below is an internal network.</p>
+<p>And the one below is an internal network IPv4 169.254.26.252 for our "Ethernet" we're gonna change the name of these after just to keep thing more neat for the project.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5058,"sizeSlug":"large","linkDestination":"none"} -->
@@ -218,11 +219,12 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Let's rename both networks to easily identify them.</p>
+<p>Let's rename both networks to easily identify them. Ethernet to "Internal" and Ethernet 2 to "Internet"</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5060,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-441.png?w=626" alt="" class="wp-image-5060"/><figcaption class="wp-element-caption">Now assign a IP address to the internal network. </figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/153cd302-19f2-48fd-8d0c-a0cb98e75937" alt="Active Directory Image">
+<figcaption class="wp-element-caption">Now assign a IP address to the internal network. </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
