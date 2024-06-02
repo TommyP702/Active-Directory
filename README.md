@@ -660,7 +660,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https://github.com/Persecure/AD_PS" target="_blank"><strong>https://github.com/Persecure/AD_PS</strong></a></p>
+<p><a rel="noreferrer noopener" href="https://github.com/koma29/AD_PS_Create_Random_User/blob/main/CREATE_USER.ps1" target="_blank"><strong>https://github.com/koma29/AD_PS_Create_Random_User/blob/main/CREATE_USER.ps1</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
