@@ -232,7 +232,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5061,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://persecure.files.wordpress.com/2022/09/image-442.png?w=359" alt="" class="wp-image-5061"/></figure>
+<figure class="wp-block-image size-large"><img src="https://github.com/TommyP702/Active-Directory/assets/169327735/a67ff988-5cbf-48d9-9c17-0839543e5182" alt="Active Directory Image">
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":5062,"sizeSlug":"large","linkDestination":"none"} -->
